@@ -1,0 +1,73 @@
+{
+    "clientid": "510929871984132096",
+    "prefix": "/",
+    "version": "1.0.0",
+    "chat": "510860729268699167",
+    "userrole": "510860704975159316",
+    "streamingGame": "DiscordCaptcha",
+    "streamingLink": "",
+    "evalAllowed": "true",
+    "ownerid": "466891786980425749",
+    "logging": true,
+    "captchaType": "text",
+    "commands": {
+        "blockUser": {
+            "command": "block",
+            "contributors": ["TomGeek#0001"],
+            "enabled": true
+        },
+        "removeBlockFromUser": {
+            "command": "removeBlock",
+            "contributors": ["TomGeek#0001"],
+            "enabled": true
+        },
+        "banGuildMember": {
+            "command": "ban",
+            "contributors": ["TomGeek#0001"],
+            "enabled": true
+        },
+        "clear": {
+            "command": "clear",
+            "contributors": ["TomGeek#0001"],
+            "enabled": true
+        },
+        "version": {
+            "command": "version",
+            "enabled": true
+        },
+        "queries": {
+            "command": "queries",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "querydelete": {
+            "command": "querydelete",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "purgelogs": {
+            "command": "purgelogs",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "logs": {
+            "command": "logs",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "captchas": {
+            "command": "captchas",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "makerole": {
+            "command": "create-role",
+            "enabled": true,
+            "contributors": ["TomGeek#0001"]
+        },
+        "unverify": {
+            "command": "unverify",
+            "enabled": true
+        }
+    }
+}
