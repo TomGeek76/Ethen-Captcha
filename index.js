@@ -171,4 +171,4 @@ client.on('guildMemberAdd', message => {
 					  
 process.on("unhandledRejection", console.log);
 
-client.login(procces.env.TOKEN);
+client.login(process.env.TOKEN);
